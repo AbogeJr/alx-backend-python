@@ -1,7 +1,8 @@
 #!/usr/bin/env pyhthon3
 
 """
-A type-annotated function to_kv that takes a string k and an int OR float v as arguments and returns a tuple. 
+A type-annotated function to_kv that takes a string k and an int
+OR float v as arguments and returns a tuple.
 """
 
 from typing import Union, Tuple
